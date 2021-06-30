@@ -1,4 +1,4 @@
-# learner-space
+# Learners' space
 Greetings from the Aeromodelling Club!
 
 Aeromodelling Club is delighed to bring an interesting course under Technical Summer School -

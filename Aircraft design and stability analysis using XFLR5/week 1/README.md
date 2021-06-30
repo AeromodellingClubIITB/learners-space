@@ -1,5 +1,5 @@
 # Week 1
-Welcome to the course! 
+Welcome to the course! <br />
 In this week we will cover - 
 * Plane Anatomy
 * Airfoil design and analysis

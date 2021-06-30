@@ -15,8 +15,18 @@ The principal structural units of a fixed-wing aircraft are the fuselage, wings,
 * **[Wing Geometry and definations](https://www.grc.nasa.gov/www/k-12/airplane/geom.html)**: This includes technical definitions of a wing's geometry, which is one of the chief factors affecting airplane lift and drag.
 
 ## Airfoil design and analysis
-An airfoil is the shape of a wing or blade as seen in cross-section. An airfoil-shaped body movedthrough a fluid produces an aerodynamic force. The component of this force perpendicular to the direction ofmotion is called lift. The component parallel to the direction of motion is called drag. The design andoptimization of an airfoil is very important as it affects the lift produced by the wing of an aircraft or ahelicopter.
-* **[Airfoil design](https://www.grc.nasa.gov/www/k-12/airplane/airplane.html)**
+An airfoil is the shape of a wing or blade as seen in cross-section. An airfoil-shaped body movedthrough a fluid produces an aerodynamic force. The component of this force perpendicular to the direction ofmotion is called lift. The component parallel to the direction of motion is called drag. The design andoptimization of an airfoil is very important as it affects the lift produced by the wing of an aircraft or a helicopter.
+* **[Airfoil design](https://youtu.be/8fk2J5LtdSg)**
 
 ## Interpreting airfoil data, Cl vs Alpha and drag polar, selection of airfoil
 This topic will be covered in a live webinar
+
+## Airfoil Analysis in XFLR5
+Please download the XFLR5 software from [here](https://sourceforge.net/projects/xflr5/files/latest/download). <br/>
+You can find airfoil database [here](https://m-selig.ae.illinois.edu/ads/coord_database.html).
+* **[Foil analysis](https://youtu.be/U7saOcozpi8 )**
+* **[Foil Batch analysis](https://youtu.be/O4qlA_hjORc)**
+* **[Type 4 Polar](https://youtu.be/7obBVeD7wd8)**
+* **[Flapped foil design](https://youtu.be/xmalG5VS47g)**
+* **[Inverse foil design](https://youtu.be/JmWNR1O4Jdc)**
+* **[Polar mesh](https://youtu.be/QfGSKCrv-Ps)**

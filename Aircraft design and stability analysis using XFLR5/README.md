@@ -12,7 +12,7 @@ Welcome to our TSS course from Learner's Space organised by Carrer Cell with Aer
 …Aircraft Design is full of such mysterious questions and we with this course want to help you answer them.
 
 ## Why you should Take up this course
-
+The course is designed so that any person having little to no information about aeromodelling, but having the thirst to learn a bit about it, gets to know what goes into the theory of building a fixed-wing aircraft(RC Planes), be it for competition or a hobby.This course will give you a start on how to come up with a design for competitions like these and will touch upon aspects that will come in handy for you for the entire spectrum of basic to advanced fixed-wing designs.
 
 
 The Tentative Schedule for the course is as follows:

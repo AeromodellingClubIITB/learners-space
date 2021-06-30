@@ -13,5 +13,13 @@ Welcome to our TSS course from Learner's Space organised by Carrer Cell with Aer
 
 ## Why you should Take up this course
 
+
+
+
+The Tentative Schedule for the course is as follows:
+Duration of the course is 4 weeks and 2 days (the 2 days will serve as a buffer for assignment submission)
+* week 1:[Plane anatomy/Airfoil design/XFLR5 material]()
+
+
 For queries and discussion regarding course follow the Telegram Channel
 

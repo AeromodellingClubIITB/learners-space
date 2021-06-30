@@ -11,7 +11,7 @@ What do you think...
 
 …Aircraft Design is full of such mysterious questions and we with this course want to help you answer them.
 
-#Why you shouls Take up this course
+Why you should Take up this course
 
 For queries and discussion regarding course follow the Telegram Channel
 

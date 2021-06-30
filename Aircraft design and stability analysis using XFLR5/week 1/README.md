@@ -9,7 +9,7 @@ In this week we will cover -
 To make sure that you understand things well, we have given a brief description of the topics followed by links. It is okay if you don't understand everything in the first go we will take your doubts in live webinars. 
 
 ## Plane Anatomy
-There are many parts of an airplane and each has its own specific purpose. Let’s look at the main components of an airplane and get a better understanding of their function.
+There are many parts of an airplane and each has its own specific purpose. Let’s look at the main components of an airplane and get a better understanding of their functions.
 The principal structural units of a fixed-wing aircraft are the fuselage, wings, stabilizers, flight control surfaces, and landing gear
 * **[Aircraft Parts and Function](https://www.grc.nasa.gov/www/k-12/airplane/airplane.html)**: In this you will get to learn about the constructive features of the fixed-wing aircraft and you will be able to identify the primary, secondary, and auxiliary flight control surfaces.     
 * **[Wing Geometry and definations](https://www.grc.nasa.gov/www/k-12/airplane/geom.html)**: This includes technical definitions of a wing's geometry, which is one of the chief factors affecting airplane lift and drag.

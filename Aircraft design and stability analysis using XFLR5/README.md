@@ -18,10 +18,10 @@ The course is designed so that any person having little to no information about 
 The Tentative Schedule for the course is as follows:
 
  Duration of the course is 4 weeks and 2 days (the 2 days will serve as a buffer for assignment submission)
-* week 1:[Plane anatomy/Airfoil design/XFLR5 material](https://github.com/AeromodellingClubIITB/learners-space/tree/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%201)
-* week 2:[Governing equations/Plane design and analysis](https://github.com/AeromodellingClubIITB/learners-space/blob/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%202/README.md)
-* week 3:[Stability](https://github.com/AeromodellingClubIITB/learners-space/blob/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%203/README.md)
-* week 4:[Major assignment](https://github.com/AeromodellingClubIITB/learners-space/blob/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%204/Major_Assignment)
+* Week 1:[Plane anatomy/Airfoil design/XFLR5 material](https://github.com/AeromodellingClubIITB/learners-space/tree/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%201)
+* Week 2:[Governing equations/Plane design and analysis](https://github.com/AeromodellingClubIITB/learners-space/blob/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%202/README.md)
+* Week 3:[Stability](https://github.com/AeromodellingClubIITB/learners-space/blob/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%203/README.md)
+* Week 4:[Major Assignment](https://github.com/AeromodellingClubIITB/learners-space/blob/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%204/Major_Assignment)
 
 
 

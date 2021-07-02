@@ -24,5 +24,5 @@ The Tentative Schedule for the course is as follows:
 * week 4:[major_assignment](https://github.com/AeromodellingClubIITB/learners-space/blob/main/Aircraft%20design%20and%20stability%20analysis%20using%20XFLR5/week%204/Major_Assignment)
 
 
-For queries and discussion regarding course follow the Telegram Channel
+
 

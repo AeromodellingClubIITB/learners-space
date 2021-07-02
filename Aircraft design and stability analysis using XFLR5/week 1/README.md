@@ -32,4 +32,4 @@ You can find airfoil database [here](https://m-selig.ae.illinois.edu/ads/coord_d
 * **[Polar mesh](https://youtu.be/QfGSKCrv-Ps)**
 
 
-The [Assignment1](https://docs.google.com/document/d/1aRewQEzmiGXJ9ts91aOBTVnjaJBZdX9c_QtPU32pcIg/edit?usp=sharing) will be used for evaluation of the course, hence you are expected to complete them within the week.
+The [Assignment1](https://docs.google.com/document/d/1aRewQEzmiGXJ9ts91aOBTVnjaJBZdX9c_QtPU32pcIg/edit?usp=sharing) will be used for evaluation of the course, hence you are expected to complete that within the week.

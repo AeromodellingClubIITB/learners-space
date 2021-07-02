@@ -29,7 +29,7 @@ You can find airfoil database [here](https://m-selig.ae.illinois.edu/ads/coord_d
 * **[Type 4 Polar](https://youtu.be/7obBVeD7wd8)**: In this you will get to know how to use polars to get different colors for each curve.
 * **[Flapped foil design](https://youtu.be/xmalG5VS47g)**: 
 * **[Inverse foil design](https://youtu.be/JmWNR1O4Jdc)**: This gives an idea of how to optimise the shape of any foil and then deduce what the geometry of the foil needs to be to match the velocity profile.  
-* **[Polar mesh](https://youtu.be/QfGSKCrv-Ps)**: 
+* **[Polar mesh](https://youtu.be/QfGSKCrv-Ps)**: This helps to do 2d and 3d analysis of foil to evaluate the viscous drag using polar mesh.
 
 
 The [Assignment1](https://docs.google.com/document/d/1aRewQEzmiGXJ9ts91aOBTVnjaJBZdX9c_QtPU32pcIg/edit?usp=sharing) will be used for evaluation of the course, hence you are expected to complete that within the week.

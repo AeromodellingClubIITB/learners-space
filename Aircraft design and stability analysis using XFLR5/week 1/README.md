@@ -24,7 +24,7 @@ This topic will be covered in a live webinar
 ## Airfoil Analysis in XFLR5
 Please download the XFLR5 software from [here](https://sourceforge.net/projects/xflr5/files/latest/download). <br/>
 You can find airfoil database [here](https://m-selig.ae.illinois.edu/ads/coord_database.html).
-* **[Foil analysis](https://youtu.be/U7saOcozpi8 )**: In this you will learn how to use XFLR5 program to perform a plane analysis starting with foil design to the stability of analysis of complete plane.
+* **[Foil analysis](https://youtu.be/U7saOcozpi8 )**: In this you will learn how to use XFLR5 program to perform foil analysis.
 * **[Foil Batch analysis](https://youtu.be/O4qlA_hjORc)**: This gives an overview of how to do batch analysis for the two foils at the same time, also gives an idea of how to decide the range the values to get a better graph. 
 * **[Type 4 Polar](https://youtu.be/7obBVeD7wd8)**: In this you will get to know how to use polars to get different colors for each curve.
 * **[Flapped foil design](https://youtu.be/xmalG5VS47g)**: In this you will learn about the impact of flaps on the performance of foil. 

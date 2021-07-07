@@ -33,7 +33,11 @@ You can find airfoil database [here](https://m-selig.ae.illinois.edu/ads/coord_d
 
 
 The [Assignment1](https://docs.google.com/document/d/1aRewQEzmiGXJ9ts91aOBTVnjaJBZdX9c_QtPU32pcIg/edit?usp=sharing) will be used for evaluation of the course, hence you are expected to complete that within the week.
-If you get stuck in any of the above questions, feel free to post them in the Telegram group. Additionally, you can also search for the problems online.
+If you get stuck in any of the above questions, feel free to post them in the Telegram group. Additionally, you can also search for the problems online.<br/>
+## Assignment Submission 
+Link for Assignment submission is [here](https://forms.gle/fM1kCM2LikYm5UP58)
+Submit the assignment in single pdf format. Upload XFLR5 files in drive and share the accessible link in form. 
+
 
 If you are having any difficulties with the course, please reach out to any of the moderators and we will surely help you out.<br/>
 See you in Week 2!

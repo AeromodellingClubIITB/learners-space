@@ -1,7 +1,7 @@
 ## Week 2
 Before starting this week's content, have a look at this **[video](https://youtu.be/q7c9PCkvIOY?t=660)**
 to have better understanding of topics.
-#### Topics covered in this week :
+## Topics covered in this week :
 * To design a fixed-wing drone using the mission parameters.<br/>
 * Learn how to analyse a 3D plane design in XFLR5.
 
@@ -13,14 +13,16 @@ Let’s start with what exactly a mission will typically look like, a mission ty
 
 Now one thing to note is you will never have a single UAV satisfying all the mission parameters, instead, all the parameters of the UAV will lie in a certain range and of course will heavily depend on one another.
 
-Now before we go into how to determine these parameters let’s look at the governing [equations for fixed-wing flight](https://www.grc.nasa.gov/www/k-12/airplane/cruise.html).<br/>
-Just to get a flavour for it this is how range and endurance of a fuel powered plane is calculated have a look at this [document](https://nptel.ac.in/content/storage2/courses/101104007/Module2/Lec9.pdf).If it is not very clear have a look at the following [video](https://youtu.be/2NR2eFxaK74).
+Now before we go into how to determine these parameters.let’s look at the governing **[equations](https://www.grc.nasa.gov/www/k-12/airplane/cruise.html)** for fixed-wing flight .<br/>
 
-With this info, I want you all to get a brief idea on thrust required and power required, I am giving you a slightly long video but this will give you a recap of everything we did till now and the Power required part which will come in very handy in the analysis ahead:<br/>
+Just to get a flavour for it this is how range and endurance of a fuel powered plane is calculated have a look at this **[document](https://nptel.ac.in/content/storage2/courses/101104007/Module2/Lec9.pdf)**.<br/>
+If it is not very clear have a look at the following **[video](https://youtu.be/2NR2eFxaK74)**.
+
+With this info, I want you all to get a brief idea on thrust required and power required, I am giving you a slightly long video but this will give you a recap of everything we did till now and the Power required part which will come very handy in the analysis ahead:<br/>
 **[Thrust Required, Power Required: Cruise](https://youtu.be/YDChv27slEE)**
 
 
-* #### Now how to go from there to range and endurance of a battery powered UAV?
+ ## How to go from there to range and endurance of a battery powered UAV?
 Remember we said something about it in mission parameters.
 Well you just equate power required to battery power: TV = power-required (as done in the last video). Now to equate it with power available from the battery (never forget to use safety factors here no battery has 100% efficiency).  Every battery will have a mAh rating, and a SED (Specific Energy Density), these values are easily available on net, what you can do is with this power of battery comes out to be: (Wbattery)*SED = T*V*(time of flight)=W*V*(time of flight)/(L/D)
 From this you get time of flight which basically is the endurance. 

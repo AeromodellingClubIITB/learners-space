@@ -1,5 +1,5 @@
 ## Week 2
-#### The final goal at the end of the week would be that you would learn:
+#### The final goal at the end of this week would be that you would learn:
 * To design a fixed-wing drone using the mission parameters.<br/>
 * Learn how to analyse a 3D plane design in XFLR5.
 
@@ -33,3 +33,8 @@ Now after this we will cover the weight iteration technique. It will be covered 
 And here is the Webinar 1 slides and recording link for your reference.
 * **[Slides](https://docs.google.com/presentation/d/1yDpFzJeMpa7GxheA2u-Rbdd2NnsJJzdS3lKUppqSnF0/edit?usp=sharing)**
 * **[Recording](https://iitbacin.sharepoint.com/sites/LSAircraftdesignandStabilityanalysisusingXFLR5/Shared%20Documents/General/Recordings/webinar%20of%20week1-20210705_170521-Meeting%20Recording.mp4?web=1)**
+
+Congratualtions! You have successfully completed Week 2 of the course! Keep up the enthusiasm!
+
+Again, if you are having any difficulties with the course, please reach out to one of the moderators and we will surely help you out.
+See you in Week 3!

@@ -5,9 +5,13 @@ to have better understanding of topics.
 * To design a fixed-wing drone using the mission parameters.<br/>
 * Learn how to analyse a 3D plane design in XFLR5.
 
+Let’s start with what exactly a mission will typically look like, a mission typically gives you parameters that your UAV should satisfy. It would include 
+* Range
+* Endurance
+* payload
+* sometimes even things like takeoff distance.
 
-So let’s start with what exactly a mission will typically look like, a mission typically gives you parameters that your UAV should satisfy. It would include Range, Endurance, payload, sometimes even things like takeoff distance.<br/>
-* Now one thing to note is you will never have a single UAV satisfying all the mission parameters, instead, all the parameters of the UAV will lie in a certain range and of course will heavily depend on one another.
+Now one thing to note is you will never have a single UAV satisfying all the mission parameters, instead, all the parameters of the UAV will lie in a certain range and of course will heavily depend on one another.
 
 Now before we go into how to determine these parameters let’s look at the governing [equations for fixed-wing flight](https://www.grc.nasa.gov/www/k-12/airplane/cruise.html).<br/>
 Just to get a flavour for it this is how range and endurance of a fuel powered plane is calculated have a look at this [document](https://nptel.ac.in/content/storage2/courses/101104007/Module2/Lec9.pdf).If it is not very clear have a look at the following [video](https://youtu.be/2NR2eFxaK74).

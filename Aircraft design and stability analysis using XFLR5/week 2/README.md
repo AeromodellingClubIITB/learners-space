@@ -11,8 +11,8 @@ Now before we go into how to determine these parameters let’s look at the gove
 Now how to go from there to range and endurance? 
 
 Just a note this is only for steady level flight, a lot more configurations are possible. If you are interested you could go through the following: 
-* [Ascent](https://www.grc.nasa.gov/www/k-12/airplane/climb.html)
-* [Gliding flight](https://www.grc.nasa.gov/www/k-12/airplane/glidang.html).<br/>
+* **[Ascent](https://www.grc.nasa.gov/www/k-12/airplane/climb.html)**
+* **[Gliding flight](https://www.grc.nasa.gov/www/k-12/airplane/glidang.html)**.<br/>
 
 Now after this we will cover the weight iteration technique. It will be covered in the live session.
 

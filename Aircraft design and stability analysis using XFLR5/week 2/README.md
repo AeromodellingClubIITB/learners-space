@@ -16,7 +16,9 @@ With this info, I want you all to get a brief idea on thrust required and power 
 
 #### Now how to go from there to range and endurance of a battery powered UAV?
 Remember we said something about it in mission parameters.
-Well you just equate power required to battery power: TV = power-required (as done in the last video). Now to equate it with power available from the battery (never forget to use safety factors here no battery has 100% efficiency).  Every battery will have a mAh rating, and a SED (Specific Energy Density
+Well you just equate power required to battery power: TV = power-required (as done in the last video). Now to equate it with power available from the battery (never forget to use safety factors here no battery has 100% efficiency).  Every battery will have a mAh rating, and a SED (Specific Energy Density), these values are easily available on net, what you can do is with this power of battery comes out to be: (Wbattery)*SED = T*V*(time of flight)=W*V*(time of flight)/(L/D)
+From this you get time of flight which basically is the endurance
+
 
 Just a note this is only for steady level flight, a lot more configurations are possible. If you are interested you could go through the following: 
  * **[Ascent](https://www.grc.nasa.gov/www/k-12/airplane/climb.html)**

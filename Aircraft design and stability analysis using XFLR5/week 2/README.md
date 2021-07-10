@@ -26,3 +26,7 @@ Now after this we will cover the weight iteration technique. It will be covered 
 * **[Plane analysis](https://youtu.be/bJddlSRSZGY)**
 * **[Reference dimensions](https://youtu.be/VH3M1NQYZPA)**
 * **[Design a flapped wing](https://youtu.be/uUQhFh0d4uM)**
+
+And here is the Webinar 1 slides and recording link for your reference.
+* **[Slides](https://docs.google.com/presentation/d/1yDpFzJeMpa7GxheA2u-Rbdd2NnsJJzdS3lKUppqSnF0/edit?usp=sharing)**
+* **[Recording](https://iitbacin.sharepoint.com/sites/LSAircraftdesignandStabilityanalysisusingXFLR5/Shared%20Documents/General/Recordings/webinar%20of%20week1-20210705_170521-Meeting%20Recording.mp4?web=1)**

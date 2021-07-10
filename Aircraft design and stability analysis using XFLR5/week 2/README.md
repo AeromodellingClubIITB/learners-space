@@ -3,6 +3,8 @@
 * To design a fixed-wing drone using the mission parameters.<br/>
 * Learn how to analyse a 3D plane design in XFLR5.
 
+This **[video](https://youtu.be/q7c9PCkvIOY?t=660)** consisting wing geometry and MAC, will easily make you understand the topics which are important for the later part of the course,at a single glance.So make sure you do this at very first.
+
 Let’s start with what exactly a mission will typically look like, a mission typically gives you parameters that your UAV should satisfy. It would include 
 * Range
 * Endurance

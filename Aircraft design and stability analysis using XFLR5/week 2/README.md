@@ -13,7 +13,7 @@ Let’s start with what exactly a mission will typically look like, a mission ty
 
 Now one thing to note is you will never have a single UAV satisfying all the mission parameters, instead, all the parameters of the UAV will lie in a certain range and of course will heavily depend on one another.
 
-Now before we go into how to determine these parameters.let’s look at the governing **[equations](https://www.grc.nasa.gov/www/k-12/airplane/cruise.html)** for fixed-wing flight .<br/>
+Before we go into how to determine these parameters.let’s look at the governing **[equations](https://www.grc.nasa.gov/www/k-12/airplane/cruise.html)** for fixed-wing flight .<br/>
 
 Just to get a flavour for it this is how range and endurance of a fuel powered plane is calculated have a look at this **[document](https://nptel.ac.in/content/storage2/courses/101104007/Module2/Lec9.pdf)**.<br/>
 If it is not very clear have a look at the following **[video](https://youtu.be/2NR2eFxaK74)**.

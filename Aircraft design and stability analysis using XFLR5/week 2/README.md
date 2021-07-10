@@ -17,7 +17,7 @@ Just a note this is only for steady level flight, a lot more configurations are 
 Now after this we will cover the weight iteration technique. It will be covered in the live session.
 
 ## XFLR5
-* [Design a plane](https://youtu.be/vhykE-mVBO4 )
-* [Plane analysis](https://youtu.be/bJddlSRSZGY)
-* [Reference dimensions](https://youtu.be/VH3M1NQYZPA)
-* [Design a flapped wing](https://youtu.be/uUQhFh0d4uM)
+* **[Design a plane](https://youtu.be/vhykE-mVBO4)**
+* **[Plane analysis](https://youtu.be/bJddlSRSZGY)**
+* **[Reference dimensions](https://youtu.be/VH3M1NQYZPA)**
+* **[Design a flapped wing](https://youtu.be/uUQhFh0d4uM)**

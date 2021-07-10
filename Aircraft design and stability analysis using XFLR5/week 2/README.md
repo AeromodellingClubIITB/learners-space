@@ -1,6 +1,4 @@
 ## Week 2
-Before starting this week's content, have a look at this **[video](https://youtu.be/q7c9PCkvIOY?t=660)**
-to have better understanding of topics.
 ## Topics covered in this week :
 * To design a fixed-wing drone using the mission parameters.<br/>
 * Learn how to analyse a 3D plane design in XFLR5.

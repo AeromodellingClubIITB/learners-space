@@ -8,7 +8,8 @@ So let’s start with what exactly a mission will typically look like, a mission
 * Now one thing to note is you will never have a single UAV satisfying all the mission parameters, instead, all the parameters of the UAV will lie in a certain range and of course will heavily depend on one another.
 
 Now before we go into how to determine these parameters let’s look at the governing [equations for fixed-wing flight](https://www.grc.nasa.gov/www/k-12/airplane/cruise.html)<br/>
-Now how to go from there to range and endurance? 
+Now how to go from there to range and endurance?(remember we said something about it in mission parameters)<br/>
+Well you just equate power required to battery power: TV = power-required.
 
 Just a note this is only for steady level flight, a lot more configurations are possible. If you are interested you could go through the following: 
 * **[Ascent](https://www.grc.nasa.gov/www/k-12/airplane/climb.html)**

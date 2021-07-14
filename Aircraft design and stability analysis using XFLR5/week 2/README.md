@@ -33,7 +33,7 @@ Just a note this is only for steady level flight, a lot more configurations are 
  * **[Ascent](https://www.grc.nasa.gov/www/k-12/airplane/climb.html)**
  * **[Gliding flight](https://www.grc.nasa.gov/www/k-12/airplane/glidang.html)**.<br/>
 
-Now after this we will cover the weight iteration technique. It will be covered in the live session.
+Now after this we will cover the **Weight Iteration Technique**. It will be covered in the live session.
 
 ## XFLR5
 * **[Design a plane](https://youtu.be/vhykE-mVBO4)**

@@ -24,7 +24,7 @@ With this info, I want you all to get a brief idea on thrust required and power 
 
  ## How to go from there to range and endurance of a battery powered UAV?
 Remember we said something about it in mission parameters.
-Well you just equate power required to battery power: TV = power-required (as done in the last video). Now to equate it with power available from the battery (never forget to use safety factors here no battery has 100% efficiency).  Every battery will have a mAh rating, and a SED (Specific Energy Density), these values are easily available on net, what you can do is with this power of battery comes out to be: - <img src="https://latex.codecogs.com/gif.latex? (W_{battery})*SED = T*V*(Time of flight) = \frac{W*V*(Time of flight)}{(L/D)} " />
+Well you just equate power required to battery power: TV = power-required (as done in the last video). Now to equate it with power available from the battery (never forget to use safety factors here no battery has 100% efficiency).  Every battery will have a mAh rating, and a SED (Specific Energy Density), these values are easily available on net, what you can do is with this power of battery comes out to be: <a href="https://www.codecogs.com/eqnedit.php?latex=(W_{battery})*SED&space;=&space;T*V*(Time&space;of&space;flight)&space;=&space;\frac{W*V*(Time&space;of&space;flight)}{(L/D)}" target="_blank"><img src="https://latex.codecogs.com/png.latex?(W_{battery})*SED&space;=&space;T*V*(Time&space;of&space;flight)&space;=&space;\frac{W*V*(Time&space;of&space;flight)}{(L/D)}" title="(W_{battery})*SED = T*V*(Time of flight) = \frac{W*V*(Time of flight)}{(L/D)}" /></a>
 From this you get time of flight which basically is the endurance. 
 
 

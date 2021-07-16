@@ -45,7 +45,7 @@ And here is the Webinar 1 slides and recording link for your reference.
 * **[Slides](https://docs.google.com/presentation/d/1yDpFzJeMpa7GxheA2u-Rbdd2NnsJJzdS3lKUppqSnF0/edit?usp=sharing)**
 * **[Recording](https://iitbacin.sharepoint.com/sites/LSAircraftdesignandStabilityanalysisusingXFLR5/Shared%20Documents/General/Recordings/webinar%20of%20week1-20210705_170521-Meeting%20Recording.mp4?web=1)**
 
-The [Assignment 2 - Part 1](https://docs.google.com/document/d/e/2PACX-1vTyw0uwCQbmnYgU9LDFRS7tR3dcKF5RpkU3mRTQTJ_sZhoxoaTZxFasBix9WMPvbtzxs0fMzroh2ZpY/pub) will be used for evaluation of the course, hence you are expected to complete that within the week.The [Assignment 2- Part 2](https://docs.google.com/document/d/1ZnYsfJzcqnwnggxRqmxXi29hnSWAg6q0hjeA-UR313k/edit?usp=sharing) is here. Submit your assignment in pdf format.The deadline for assignment submission is 18th july 11:59pm, so make sure you complete that in given deadline.</br>
+The [Assignment 2 - Part 1](https://docs.google.com/document/d/e/2PACX-1vTyw0uwCQbmnYgU9LDFRS7tR3dcKF5RpkU3mRTQTJ_sZhoxoaTZxFasBix9WMPvbtzxs0fMzroh2ZpY/pub) and [Assignment 2- Part 2](https://docs.google.com/document/d/1ZnYsfJzcqnwnggxRqmxXi29hnSWAg6q0hjeA-UR313k/edit?usp=sharing) both will be used for evaluation of the course, hence you are expected to complete that within the week. Submit your assignment in pdf format.The deadline for assignment submission is 18th july 11:59pm, so make sure you complete that in given deadline.</br>
 If you get stuck in any of the above questions, feel free to post them in the Telegram group. Additionally, you can also search for the problems online.<br/>
 ## Assignment Submission 
 Link for Assignment submission is [here](https://forms.gle/fM1kCM2LikYm5UP58)
